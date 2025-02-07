@@ -8,7 +8,7 @@ Com fins de auto-treinamento, optei pela criação de 3 dashboards.
 2. Dashboard-2: venda por PRODUTO/SERVIÇO - Subscriptions, Minecraft e EA.
 3. Dashboard-3: com os dados dos 2 primeiros dashboards.
 
-E, para mellhor fixação e entendimento, optei por um DESAFIO (como melhorar as vendas orgânicamente) e algumas PERGUNTAS para atender as solicitações do desafio originalmente proposto no bootcamp.
+E, para mellhor fixação e entendimento, optei por um DESAFIO - como melhorar as vendas orgânicamente, e, algumas PERGUNTAS para atender as solicitações do desafio originalmente proposto no bootcamp.
 
 ## DESAFIO
 - Como crescer as vendas organicamente? (*) Dá pra crescer até 77% nas vendas - ver abaixo.
